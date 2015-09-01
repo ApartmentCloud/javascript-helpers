@@ -1,0 +1,824 @@
+[
+  {
+    "Id": "Afrikaans_South_Africa",
+    "CultureCode": "0x0436",
+    "CultureName": "af-ZA",
+    "DisplayName": "Afrikaans - South Africa"
+  },
+  {
+    "Id": "Albanian_Albania",
+    "CultureCode": "0x041C",
+    "CultureName": "sq-AL",
+    "DisplayName": "Albanian - Albania"
+  },
+  {
+    "Id": "Arabic_Algeria",
+    "CultureCode": "0x1401",
+    "CultureName": "ar-DZ",
+    "DisplayName": "Arabic - Algeria"
+  },
+  {
+    "Id": "Arabic_Bahrain",
+    "CultureCode": "0x3C01",
+    "CultureName": "ar-BH",
+    "DisplayName": "Arabic - Bahrain"
+  },
+  {
+    "Id": "Arabic_Egypt",
+    "CultureCode": "0x0C01",
+    "CultureName": "ar-EG",
+    "DisplayName": "Arabic - Egypt"
+  },
+  {
+    "Id": "Arabic_Iraq",
+    "CultureCode": "0x0801",
+    "CultureName": "ar-IQ",
+    "DisplayName": "Arabic - Iraq"
+  },
+  {
+    "Id": "Arabic_Jordan",
+    "CultureCode": "0x2C01",
+    "CultureName": "ar-JO",
+    "DisplayName": "Arabic - Jordan"
+  },
+  {
+    "Id": "Arabic_Kuwait",
+    "CultureCode": "0x3401",
+    "CultureName": "ar-KW",
+    "DisplayName": "Arabic - Kuwait"
+  },
+  {
+    "Id": "Arabic_Lebanon",
+    "CultureCode": "0x3001",
+    "CultureName": "ar-LB",
+    "DisplayName": "Arabic - Lebanon"
+  },
+  {
+    "Id": "Arabic_Libya",
+    "CultureCode": "0x1001",
+    "CultureName": "ar-LY",
+    "DisplayName": "Arabic - Libya"
+  },
+  {
+    "Id": "Arabic_Morocco",
+    "CultureCode": "0x1801",
+    "CultureName": "ar-MA",
+    "DisplayName": "Arabic - Morocco"
+  },
+  {
+    "Id": "Arabic_Oman",
+    "CultureCode": "0x2001",
+    "CultureName": "ar-OM",
+    "DisplayName": "Arabic - Oman"
+  },
+  {
+    "Id": "Arabic_Qatar",
+    "CultureCode": "0x4001",
+    "CultureName": "ar-QA",
+    "DisplayName": "Arabic - Qatar"
+  },
+  {
+    "Id": "Arabic_Saudi_Arabia",
+    "CultureCode": "0x0401",
+    "CultureName": "ar-SA",
+    "DisplayName": "Arabic - Saudi Arabia"
+  },
+  {
+    "Id": "Arabic_Syria",
+    "CultureCode": "0x2801",
+    "CultureName": "ar-SY",
+    "DisplayName": "Arabic - Syria"
+  },
+  {
+    "Id": "Arabic_Tunisia",
+    "CultureCode": "0x1C01",
+    "CultureName": "ar-TN",
+    "DisplayName": "Arabic - Tunisia"
+  },
+  {
+    "Id": "Arabic_United_Arab_Emirates",
+    "CultureCode": "0x3801",
+    "CultureName": "ar-AE",
+    "DisplayName": "Arabic - United Arab Emirates"
+  },
+  {
+    "Id": "Arabic_Yemen",
+    "CultureCode": "0x2401",
+    "CultureName": "ar-YE",
+    "DisplayName": "Arabic - Yemen"
+  },
+  {
+    "Id": "Armenian_Armenia",
+    "CultureCode": "0x042B",
+    "CultureName": "hy-AM",
+    "DisplayName": "Armenian - Armenia"
+  },
+  {
+    "Id": "Azeri_Cyrillic_Azerbaijan",
+    "CultureCode": "0x082C",
+    "CultureName": "Cy-az-AZ",
+    "DisplayName": "Azeri (Cyrillic) - Azerbaijan"
+  },
+  {
+    "Id": "Azeri_Latin_Azerbaijan",
+    "CultureCode": "0x042C",
+    "CultureName": "Lt-az-AZ",
+    "DisplayName": "Azeri (Latin) - Azerbaijan"
+  },
+  {
+    "Id": "Basque_Basque",
+    "CultureCode": "0x042D",
+    "CultureName": "eu-ES",
+    "DisplayName": "Basque - Basque"
+  },
+  {
+    "Id": "Belarusian_Belarus",
+    "CultureCode": "0x0423",
+    "CultureName": "be-BY",
+    "DisplayName": "Belarusian - Belarus"
+  },
+  {
+    "Id": "Bulgarian_Bulgaria",
+    "CultureCode": "0x0402",
+    "CultureName": "bg-BG",
+    "DisplayName": "Bulgarian - Bulgaria"
+  },
+  {
+    "Id": "Catalan_Catalan",
+    "CultureCode": "0x0403",
+    "CultureName": "ca-ES",
+    "DisplayName": "Catalan - Catalan"
+  },
+  {
+    "Id": "Chinese_China",
+    "CultureCode": "0x0804",
+    "CultureName": "zh-CN",
+    "DisplayName": "Chinese - China"
+  },
+  {
+    "Id": "Chinese_Hong_Kong_SAR",
+    "CultureCode": "0x0C04",
+    "CultureName": "zh-HK",
+    "DisplayName": "Chinese - Hong Kong SAR"
+  },
+  {
+    "Id": "Chinese_Macau_SAR",
+    "CultureCode": "0x1404",
+    "CultureName": "zh-MO",
+    "DisplayName": "Chinese - Macau SAR"
+  },
+  {
+    "Id": "Chinese_Singapore",
+    "CultureCode": "0x1004",
+    "CultureName": "zh-SG",
+    "DisplayName": "Chinese - Singapore"
+  },
+  {
+    "Id": "Chinese_Taiwan",
+    "CultureCode": "0x0404",
+    "CultureName": "zh-TW",
+    "DisplayName": "Chinese - Taiwan"
+  },
+  {
+    "Id": "Chinese_Simplified",
+    "CultureCode": "0x0004",
+    "CultureName": "zh-CHS",
+    "DisplayName": "Chinese (Simplified)"
+  },
+  {
+    "Id": "Chinese_Traditional",
+    "CultureCode": "0x7C04",
+    "CultureName": "zh-CHT",
+    "DisplayName": "Chinese (Traditional)"
+  },
+  {
+    "Id": "Croatian_Croatia",
+    "CultureCode": "0x041A",
+    "CultureName": "hr-HR",
+    "DisplayName": "Croatian - Croatia"
+  },
+  {
+    "Id": "Czech_Czech_Republic",
+    "CultureCode": "0x0405",
+    "CultureName": "cs-CZ",
+    "DisplayName": "Czech - Czech Republic"
+  },
+  {
+    "Id": "Danish_Denmark",
+    "CultureCode": "0x0406",
+    "CultureName": "da-DK",
+    "DisplayName": "Danish - Denmark"
+  },
+  {
+    "Id": "Dhivehi_Maldives",
+    "CultureCode": "0x0465",
+    "CultureName": "div-MV",
+    "DisplayName": "Dhivehi - Maldives"
+  },
+  {
+    "Id": "Dutch_Belgium",
+    "CultureCode": "0x0813",
+    "CultureName": "nl-BE",
+    "DisplayName": "Dutch - Belgium"
+  },
+  {
+    "Id": "Dutch_The_Netherlands",
+    "CultureCode": "0x0413",
+    "CultureName": "nl-NL",
+    "DisplayName": "Dutch - The Netherlands"
+  },
+  {
+    "Id": "English",
+    "CultureCode": "0x0409",
+    "CultureName": "en",
+    "DisplayName": "English"
+  },
+  {
+    "Id": "English_Australia",
+    "CultureCode": "0x0C09",
+    "CultureName": "en-AU",
+    "DisplayName": "English - Australia"
+  },
+  {
+    "Id": "English_Belize",
+    "CultureCode": "0x2809",
+    "CultureName": "en-BZ",
+    "DisplayName": "English - Belize"
+  },
+  {
+    "Id": "English_Canada",
+    "CultureCode": "0x1009",
+    "CultureName": "en-CA",
+    "DisplayName": "English - Canada"
+  },
+  {
+    "Id": "English_Caribbean",
+    "CultureCode": "0x2409",
+    "CultureName": "en-CB",
+    "DisplayName": "English - Caribbean"
+  },
+  {
+    "Id": "English_Ireland",
+    "CultureCode": "0x1809",
+    "CultureName": "en-IE",
+    "DisplayName": "English - Ireland"
+  },
+  {
+    "Id": "English_Jamaica",
+    "CultureCode": "0x2009",
+    "CultureName": "en-JM",
+    "DisplayName": "English - Jamaica"
+  },
+  {
+    "Id": "English_New_Zealand",
+    "CultureCode": "0x1409",
+    "CultureName": "en-NZ",
+    "DisplayName": "English - New Zealand"
+  },
+  {
+    "Id": "English_Philippines",
+    "CultureCode": "0x3409",
+    "CultureName": "en-PH",
+    "DisplayName": "English - Philippines"
+  },
+  {
+    "Id": "English_South_Africa",
+    "CultureCode": "0x1C09",
+    "CultureName": "en-ZA",
+    "DisplayName": "English - South Africa"
+  },
+  {
+    "Id": "English_Trinidad_and_Tobago",
+    "CultureCode": "0x2C09",
+    "CultureName": "en-TT",
+    "DisplayName": "English - Trinidad and Tobago"
+  },
+  {
+    "Id": "English_United_Kingdom",
+    "CultureCode": "0x0809",
+    "CultureName": "en-GB",
+    "DisplayName": "English - United Kingdom"
+  },
+  {
+    "Id": "English_United_States",
+    "CultureCode": "0x0409",
+    "CultureName": "en-US",
+    "DisplayName": "English - United States"
+  },
+  {
+    "Id": "English_Zimbabwe",
+    "CultureCode": "0x3009",
+    "CultureName": "en-ZW",
+    "DisplayName": "English - Zimbabwe"
+  },
+  {
+    "Id": "Estonian_Estonia",
+    "CultureCode": "0x0425",
+    "CultureName": "et-EE",
+    "DisplayName": "Estonian - Estonia"
+  },
+  {
+    "Id": "Faroese_Faroe_Islands",
+    "CultureCode": "0x0438",
+    "CultureName": "fo-FO",
+    "DisplayName": "Faroese - Faroe Islands"
+  },
+  {
+    "Id": "Farsi_Iran",
+    "CultureCode": "0x0429",
+    "CultureName": "fa-IR",
+    "DisplayName": "Farsi - Iran"
+  },
+  {
+    "Id": "Finnish_Finland",
+    "CultureCode": "0x040B",
+    "CultureName": "fi-FI",
+    "DisplayName": "Finnish - Finland"
+  },
+  {
+    "Id": "French_Belgium",
+    "CultureCode": "0x080C",
+    "CultureName": "fr-BE",
+    "DisplayName": "French - Belgium"
+  },
+  {
+    "Id": "French_Canada",
+    "CultureCode": "0x0C0C",
+    "CultureName": "fr-CA",
+    "DisplayName": "French - Canada"
+  },
+  {
+    "Id": "French_France",
+    "CultureCode": "0x040C",
+    "CultureName": "fr-FR",
+    "DisplayName": "French - France"
+  },
+  {
+    "Id": "French_Luxembourg",
+    "CultureCode": "0x140C",
+    "CultureName": "fr-LU",
+    "DisplayName": "French - Luxembourg"
+  },
+  {
+    "Id": "French_Monaco",
+    "CultureCode": "0x180C",
+    "CultureName": "fr-MC",
+    "DisplayName": "French - Monaco"
+  },
+  {
+    "Id": "French_Switzerland",
+    "CultureCode": "0x100C",
+    "CultureName": "fr-CH",
+    "DisplayName": "French - Switzerland"
+  },
+  {
+    "Id": "Galician_Galician",
+    "CultureCode": "0x0456",
+    "CultureName": "gl-ES",
+    "DisplayName": "Galician - Galician"
+  },
+  {
+    "Id": "Georgian_Georgia",
+    "CultureCode": "0x0437",
+    "CultureName": "ka-GE",
+    "DisplayName": "Georgian - Georgia"
+  },
+  {
+    "Id": "German_Austria",
+    "CultureCode": "0x0C07",
+    "CultureName": "de-AT",
+    "DisplayName": "German - Austria"
+  },
+  {
+    "Id": "German_Germany",
+    "CultureCode": "0x0407",
+    "CultureName": "de-DE",
+    "DisplayName": "German - Germany"
+  },
+  {
+    "Id": "German_Liechtenstein",
+    "CultureCode": "0x1407",
+    "CultureName": "de-LI",
+    "DisplayName": "German - Liechtenstein"
+  },
+  {
+    "Id": "German_Luxembourg",
+    "CultureCode": "0x1007",
+    "CultureName": "de-LU",
+    "DisplayName": "German - Luxembourg"
+  },
+  {
+    "Id": "German_Switzerland",
+    "CultureCode": "0x0807",
+    "CultureName": "de-CH",
+    "DisplayName": "German - Switzerland"
+  },
+  {
+    "Id": "Greek_Greece",
+    "CultureCode": "0x0408",
+    "CultureName": "el-GR",
+    "DisplayName": "Greek - Greece"
+  },
+  {
+    "Id": "Gujarati_India",
+    "CultureCode": "0x0447",
+    "CultureName": "gu-IN",
+    "DisplayName": "Gujarati - India"
+  },
+  {
+    "Id": "Hebrew_Israel",
+    "CultureCode": "0x040D",
+    "CultureName": "he-IL",
+    "DisplayName": "Hebrew - Israel"
+  },
+  {
+    "Id": "Hindi_India",
+    "CultureCode": "0x0439",
+    "CultureName": "hi-IN",
+    "DisplayName": "Hindi - India"
+  },
+  {
+    "Id": "Hungarian_Hungary",
+    "CultureCode": "0x040E",
+    "CultureName": "hu-HU",
+    "DisplayName": "Hungarian - Hungary"
+  },
+  {
+    "Id": "Icelandic_Iceland",
+    "CultureCode": "0x040F",
+    "CultureName": "is-IS",
+    "DisplayName": "Icelandic - Iceland"
+  },
+  {
+    "Id": "Indonesian_Indonesia",
+    "CultureCode": "0x0421",
+    "CultureName": "id-ID",
+    "DisplayName": "Indonesian - Indonesia"
+  },
+  {
+    "Id": "Italian_Italy",
+    "CultureCode": "0x0410",
+    "CultureName": "it-IT",
+    "DisplayName": "Italian - Italy"
+  },
+  {
+    "Id": "Italian_Switzerland",
+    "CultureCode": "0x0810",
+    "CultureName": "it-CH",
+    "DisplayName": "Italian - Switzerland"
+  },
+  {
+    "Id": "Japanese_Japan",
+    "CultureCode": "0x0411",
+    "CultureName": "ja-JP",
+    "DisplayName": "Japanese - Japan"
+  },
+  {
+    "Id": "Kannada_India",
+    "CultureCode": "0x044B",
+    "CultureName": "kn-IN",
+    "DisplayName": "Kannada - India"
+  },
+  {
+    "Id": "Kazakh_Kazakhstan",
+    "CultureCode": "0x043F",
+    "CultureName": "kk-KZ",
+    "DisplayName": "Kazakh - Kazakhstan"
+  },
+  {
+    "Id": "Konkani_India",
+    "CultureCode": "0x0457",
+    "CultureName": "kok-IN",
+    "DisplayName": "Konkani - India"
+  },
+  {
+    "Id": "Korean_Korea",
+    "CultureCode": "0x0412",
+    "CultureName": "ko-KR",
+    "DisplayName": "Korean - Korea"
+  },
+  {
+    "Id": "Kyrgyz_Kazakhstan",
+    "CultureCode": "0x0440",
+    "CultureName": "ky-KZ",
+    "DisplayName": "Kyrgyz - Kazakhstan"
+  },
+  {
+    "Id": "Latvian_Latvia",
+    "CultureCode": "0x0426",
+    "CultureName": "lv-LV",
+    "DisplayName": "Latvian - Latvia"
+  },
+  {
+    "Id": "Lithuanian_Lithuania",
+    "CultureCode": "0x0427",
+    "CultureName": "lt-LT",
+    "DisplayName": "Lithuanian - Lithuania"
+  },
+  {
+    "Id": "Macedonian_FYROM",
+    "CultureCode": "0x042F",
+    "CultureName": "mk-MK",
+    "DisplayName": "Macedonian (FYROM)"
+  },
+  {
+    "Id": "Malay_Brunei",
+    "CultureCode": "0x083E",
+    "CultureName": "ms-BN",
+    "DisplayName": "Malay - Brunei"
+  },
+  {
+    "Id": "Malay_Malaysia",
+    "CultureCode": "0x043E",
+    "CultureName": "ms-MY",
+    "DisplayName": "Malay - Malaysia"
+  },
+  {
+    "Id": "Marathi_India",
+    "CultureCode": "0x044E",
+    "CultureName": "mr-IN",
+    "DisplayName": "Marathi - India"
+  },
+  {
+    "Id": "Mongolian_Mongolia",
+    "CultureCode": "0x0450",
+    "CultureName": "mn-MN",
+    "DisplayName": "Mongolian - Mongolia"
+  },
+  {
+    "Id": "Norwegian_Bokmal_Norway",
+    "CultureCode": "0x0414",
+    "CultureName": "nb-NO",
+    "DisplayName": "Norwegian (Bokm?l) - Norway"
+  },
+  {
+    "Id": "Norwegian_Nynorsk_Norway",
+    "CultureCode": "0x0814",
+    "CultureName": "nn-NO",
+    "DisplayName": "Norwegian (Nynorsk) - Norway"
+  },
+  {
+    "Id": "Polish_Poland",
+    "CultureCode": "0x0415",
+    "CultureName": "pl-PL",
+    "DisplayName": "Polish - Poland"
+  },
+  {
+    "Id": "Portuguese_Brazil",
+    "CultureCode": "0x0416",
+    "CultureName": "pt-BR",
+    "DisplayName": "Portuguese - Brazil"
+  },
+  {
+    "Id": "Portuguese_Portugal",
+    "CultureCode": "0x0816",
+    "CultureName": "pt-PT",
+    "DisplayName": "Portuguese - Portugal"
+  },
+  {
+    "Id": "Punjabi_India",
+    "CultureCode": "0x0446",
+    "CultureName": "pa-IN",
+    "DisplayName": "Punjabi - India"
+  },
+  {
+    "Id": "Romanian_Romania",
+    "CultureCode": "0x0418",
+    "CultureName": "ro-RO",
+    "DisplayName": "Romanian - Romania"
+  },
+  {
+    "Id": "Russian_Russia",
+    "CultureCode": "0x0419",
+    "CultureName": "ru-RU",
+    "DisplayName": "Russian - Russia"
+  },
+  {
+    "Id": "Sanskrit_India",
+    "CultureCode": "0x044F",
+    "CultureName": "sa-IN",
+    "DisplayName": "Sanskrit - India"
+  },
+  {
+    "Id": "Serbian_Cyrillic_Serbia",
+    "CultureCode": "0x0C1A",
+    "CultureName": "Cy-sr-SP",
+    "DisplayName": "Serbian (Cyrillic) - Serbia"
+  },
+  {
+    "Id": "Serbian_Latin_Serbia",
+    "CultureCode": "0x081A",
+    "CultureName": "Lt-sr-SP",
+    "DisplayName": "Serbian (Latin) - Serbia"
+  },
+  {
+    "Id": "Slovak_Slovakia",
+    "CultureCode": "0x041B",
+    "CultureName": "sk-SK",
+    "DisplayName": "Slovak - Slovakia"
+  },
+  {
+    "Id": "Slovenian_Slovenia",
+    "CultureCode": "0x0424",
+    "CultureName": "sl-SI",
+    "DisplayName": "Slovenian - Slovenia"
+  },
+  {
+    "Id": "Spanish_Argentina",
+    "CultureCode": "0x2C0A",
+    "CultureName": "es-AR",
+    "DisplayName": "Spanish - Argentina"
+  },
+  {
+    "Id": "Spanish_Bolivia",
+    "CultureCode": "0x400A",
+    "CultureName": "es-BO",
+    "DisplayName": "Spanish - Bolivia"
+  },
+  {
+    "Id": "Spanish_Chile",
+    "CultureCode": "0x340A",
+    "CultureName": "es-CL",
+    "DisplayName": "Spanish - Chile"
+  },
+  {
+    "Id": "Spanish_Colombia",
+    "CultureCode": "0x240A",
+    "CultureName": "es-CO",
+    "DisplayName": "Spanish - Colombia"
+  },
+  {
+    "Id": "Spanish_Costa_Rica",
+    "CultureCode": "0x140A",
+    "CultureName": "es-CR",
+    "DisplayName": "Spanish - Costa Rica"
+  },
+  {
+    "Id": "Spanish_Dominican_Republic",
+    "CultureCode": "0x1C0A",
+    "CultureName": "es-DO",
+    "DisplayName": "Spanish - Dominican Republic"
+  },
+  {
+    "Id": "Spanish_Ecuador",
+    "CultureCode": "0x300A",
+    "CultureName": "es-EC",
+    "DisplayName": "Spanish - Ecuador"
+  },
+  {
+    "Id": "Spanish_El_Salvador",
+    "CultureCode": "0x440A",
+    "CultureName": "es-SV",
+    "DisplayName": "Spanish - El Salvador"
+  },
+  {
+    "Id": "Spanish_Guatemala",
+    "CultureCode": "0x100A",
+    "CultureName": "es-GT",
+    "DisplayName": "Spanish - Guatemala"
+  },
+  {
+    "Id": "Spanish_Honduras",
+    "CultureCode": "0x480A",
+    "CultureName": "es-HN",
+    "DisplayName": "Spanish - Honduras"
+  },
+  {
+    "Id": "Spanish_Mexico",
+    "CultureCode": "0x080A",
+    "CultureName": "es-MX",
+    "DisplayName": "Spanish - Mexico"
+  },
+  {
+    "Id": "Spanish_Nicaragua",
+    "CultureCode": "0x4C0A",
+    "CultureName": "es-NI",
+    "DisplayName": "Spanish - Nicaragua"
+  },
+  {
+    "Id": "Spanish_Panama",
+    "CultureCode": "0x180A",
+    "CultureName": "es-PA",
+    "DisplayName": "Spanish - Panama"
+  },
+  {
+    "Id": "Spanish_Paraguay",
+    "CultureCode": "0x3C0A",
+    "CultureName": "es-PY",
+    "DisplayName": "Spanish - Paraguay"
+  },
+  {
+    "Id": "Spanish_Peru",
+    "CultureCode": "0x280A",
+    "CultureName": "es-PE",
+    "DisplayName": "Spanish - Peru"
+  },
+  {
+    "Id": "Spanish_Puerto_Rico",
+    "CultureCode": "0x500A",
+    "CultureName": "es-PR",
+    "DisplayName": "Spanish - Puerto Rico"
+  },
+  {
+    "Id": "Spanish_Spain",
+    "CultureCode": "0x0C0A",
+    "CultureName": "es-ES",
+    "DisplayName": "Spanish - Spain"
+  },
+  {
+    "Id": "Spanish_Uruguay",
+    "CultureCode": "0x380A",
+    "CultureName": "es-UY",
+    "DisplayName": "Spanish - Uruguay"
+  },
+  {
+    "Id": "Spanish_Venezuela",
+    "CultureCode": "0x200A",
+    "CultureName": "es-VE",
+    "DisplayName": "Spanish - Venezuela"
+  },
+  {
+    "Id": "Swahili_Kenya",
+    "CultureCode": "0x0441",
+    "CultureName": "sw-KE",
+    "DisplayName": "Swahili - Kenya"
+  },
+  {
+    "Id": "Swedish_Finland",
+    "CultureCode": "0x081D",
+    "CultureName": "sv-FI",
+    "DisplayName": "Swedish - Finland"
+  },
+  {
+    "Id": "Swedish_Sweden",
+    "CultureCode": "0x041D",
+    "CultureName": "sv-SE",
+    "DisplayName": "Swedish - Sweden"
+  },
+  {
+    "Id": "Syriac_Syria",
+    "CultureCode": "0x045A",
+    "CultureName": "syr-SY",
+    "DisplayName": "Syriac - Syria"
+  },
+  {
+    "Id": "Tamil_India",
+    "CultureCode": "0x0449",
+    "CultureName": "ta-IN",
+    "DisplayName": "Tamil - India"
+  },
+  {
+    "Id": "Tatar_Russia",
+    "CultureCode": "0x0444",
+    "CultureName": "tt-RU",
+    "DisplayName": "Tatar - Russia"
+  },
+  {
+    "Id": "Telugu_India",
+    "CultureCode": "0x044A",
+    "CultureName": "te-IN",
+    "DisplayName": "Telugu - India"
+  },
+  {
+    "Id": "Thai_Thailand",
+    "CultureCode": "0x041E",
+    "CultureName": "th-TH",
+    "DisplayName": "Thai - Thailand"
+  },
+  {
+    "Id": "Turkish_Turkey",
+    "CultureCode": "0x041F",
+    "CultureName": "tr-TR",
+    "DisplayName": "Turkish - Turkey"
+  },
+  {
+    "Id": "Ukrainian_Ukraine",
+    "CultureCode": "0x0422",
+    "CultureName": "uk-UA",
+    "DisplayName": "Ukrainian - Ukraine"
+  },
+  {
+    "Id": "Urdu_Pakistan",
+    "CultureCode": "0x0420",
+    "CultureName": "ur-PK",
+    "DisplayName": "Urdu - Pakistan"
+  },
+  {
+    "Id": "Uzbek_Cyrillic_Uzbekistan",
+    "CultureCode": "0x0843",
+    "CultureName": "Cy-uz-UZ",
+    "DisplayName": "Uzbek (Cyrillic) - Uzbekistan"
+  },
+  {
+    "Id": "Uzbek_Latin_Uzbekistan",
+    "CultureCode": "0x0443",
+    "CultureName": "Lt-uz-UZ",
+    "DisplayName": "Uzbek (Latin) - Uzbekistan"
+  },
+  {
+    "Id": "Vietnamese_Vietnam",
+    "CultureCode": "0x042A",
+    "CultureName": "vi-VN",
+    "DisplayName": "Vietnamese - Vietnam"
+  }
+]
